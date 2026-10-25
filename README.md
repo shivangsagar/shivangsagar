@@ -219,6 +219,12 @@ A minimal lecture-tracking project focused on helping students keep track of the
 
 <br/><br/>
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shivangsagar&style=for-the-badge&color=FF9933&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/shivangsagar?style=for-the-badge&logo=github&label=FOLLOWERS&color=FFFFFF" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/shivangsagar?style=for-the-badge&logo=github&label=TOTAL+STARS&color=138808" alt="GitHub stars"/>
+
 </div>
 
 ---
