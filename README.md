@@ -227,6 +227,7 @@ A minimal lecture-tracking project focused on helping students keep track of the
 
 </div>
 
+</div>
 ---
 
 ## BEYOND THE CODE
