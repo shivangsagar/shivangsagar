@@ -206,26 +206,37 @@ A minimal lecture-tracking project focused on helping students keep track of the
 
 ## GITHUB ACTIVITY
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivangsagar&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/shivangsagar?style=for-the-badge&label=FOLLOWERS&color=F43F5E&cacheSeconds=86400" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/shivangsagar?style=for-the-badge&label=TOTAL+STARS&color=22C55E&cacheSeconds=86400" alt="GitHub stars" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivangsagar&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangsagar&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Most-used public repository languages"/>
+<h3 align="center">GitHub Overview</h3>
 
-<br/><br/>
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=shivangsagar&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=22D3EE&text_color=C9D1D9&cache_seconds=86400"
+    alt="Shivang Sagar's GitHub statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivangsagar&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&cache_seconds=86400"
+    alt="Most used programming languages"
+  />
+</p>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=shivangsagar&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" alt="GitHub contribution streak"/>
+<h3 align="center">Contributions & Streaks</h3>
 
-<br/><br/>
+<p align="center">
+  <img
+    width="95%"
+    src="https://streak-stats.demolab.com?user=shivangsagar&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3"
+    alt="Current streak, longest streak and total contributions"
+  />
+</p>
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=shivangsagar&style=for-the-badge&color=FF9933&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/shivangsagar?style=for-the-badge&logo=github&label=FOLLOWERS&color=FFFFFF" alt="GitHub followers"/>
-<img src="https://img.shields.io/github/stars/shivangsagar?style=for-the-badge&logo=github&label=TOTAL+STARS&color=138808" alt="GitHub stars"/>
-
-</div>
-
-</div>
 ---
 
 ## BEYOND THE CODE
