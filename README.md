@@ -36,8 +36,6 @@
 
 ## ABOUT ME
 
-<img align="right" width="145" src="https://github.com/shivangsagar.png" alt="Shivang Sagar's GitHub avatar"/>
-
 I'm **Shivang Sagar**, a Civil Engineering undergraduate at **Motihari College of Engineering, Bihar**, from the 2023–2027 batch.
 
 My interests extend beyond conventional engineering. I enjoy exploring how software, data and digital tools can simplify everyday problems and improve the way we work.
