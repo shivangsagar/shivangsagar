@@ -39,16 +39,6 @@
 I'm **Shivang Sagar**, a Civil Engineering undergraduate at **Motihari College of Engineering, Bihar**, from the 2023–2027 batch.
 
 My interests extend beyond conventional engineering. I enjoy exploring how software, data and digital tools can simplify everyday problems and improve the way we work.
-
-From developing Android applications to learning structural design, surveying and BIM, I like connecting practical engineering knowledge with technology.
-
-- 🎓 Pursuing Civil Engineering at MCE, Motihari.
-- 📱 Building and maintaining open-source Android projects.
-- 🏗️ Exploring structural engineering, surveying and digital construction.
-- 📊 Learning data analysis, Excel and effective data visualization.
-- 🎨 Interested in visual communication, design and clean interfaces.
-- 🌱 Focused on continuous learning, practical projects and open-source collaboration.
-
 <br clear="right"/>
 
 > *Build things that solve real problems. Keep learning how to build them better.*
