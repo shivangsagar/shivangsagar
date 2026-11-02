@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="205" viewBox="0 0 1000 205" role="img" aria-labelledby="t d">
+<title id="t">Contribution activity</title><desc id="d">Contribution calendar will appear after the workflow runs.</desc>
+<rect width="100%" height="100%" rx="14" fill="#171C23" stroke="#303846"/>
+<text x="24" y="38" fill="#F0F6FC" font-family="Arial" font-size="17" font-weight="bold">Contribution activity</text>
+<text x="24" y="82" fill="#A78BFA" font-family="Arial" font-size="13">Contribution calendar will appear after the workflow runs.</text>
+<text x="24" y="112" fill="#929AA8" font-family="Arial" font-size="11">The profile workflow will populate this panel.</text></svg>
