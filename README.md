@@ -1,110 +1,118 @@
-<div align="center">
+<h1 align="center">Hi, I'm Shivang Sagar 👋</h1>
 
-<img src="assets/01-profile-map.svg" width="100%" alt="Profile map: Civil Engineering, development, data and open-source projects" />
+<p align="center">
+  Civil Engineering Undergrad · Android &amp; Web Developer · Data Enthusiast
+</p>
 
-<a href="https://shivangsagar.github.io/">
-  <img src="https://img.shields.io/badge/OPEN%20MY%20WEBSITE-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open my website" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivangsagar&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/shivangsagar?style=for-the-badge&logo=github&label=FOLLOWERS&color=24203A" alt="Followers" />
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="assets/02-the-approach.svg" width="100%" alt="The approach: engineering, software, digital workflows, design, learning and open source" />
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivangsagar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://shivangsagar.github.io/"><img src="https://img.shields.io/badge/Website-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+</p>
 
 ---
 
-## ◈ Projects
+## 🚀 Projects
 
-<div align="center">
+### [Presencia](https://github.com/shivangsagar/Presencia)
+Sleek attendance tracker with interactive calendars, dynamic donut charts, and pure black/white themes.
 
-<img src="assets/03-project-overview.svg" width="100%" alt="Four featured projects: Presencia, LectureTracker, personal website and portfolio" />
+<a href="https://github.com/shivangsagar/Presencia"><img src="https://img.shields.io/badge/Repository-059669?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
+<a href="https://shivangsagar.github.io/Presencia/"><img src="https://img.shields.io/badge/Live_Site-047857?style=flat-square&logo=googlechrome&logoColor=white" alt="Live site" /></a>
+<img src="https://img.shields.io/github/languages/top/shivangsagar/Presencia?style=flat-square" alt="Top language" />
+<img src="https://img.shields.io/github/stars/shivangsagar/Presencia?style=flat-square&logo=github" alt="Stars" />
+<img src="https://img.shields.io/github/last-commit/shivangsagar/Presencia?style=flat-square" alt="Last commit" />
 
-<a href="https://github.com/shivangsagar/Presencia">
-  <img src="https://img.shields.io/badge/PRESENCIA-Repository-059669?style=for-the-badge&logo=github&logoColor=white" alt="Presencia repository" />
-</a>
-<a href="https://shivangsagar.github.io/Presencia/">
-  <img src="https://img.shields.io/badge/LIVE%20PRESENCIA-Visit-047857?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Presencia live website" />
-</a>
+### [LectureTracker](https://github.com/shivangsagar/LectureTracker)
+Simple Android app for tracking lecture progress and completion percentage.
 
-<a href="https://github.com/shivangsagar/LectureTracker">
-  <img src="https://img.shields.io/badge/LECTURETRACKER-Repository-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="LectureTracker repository" />
-</a>
-<a href="https://github.com/shivangsagar/portfolio">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repository" />
-</a>
-<a href="https://shivangsagar.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio live website" />
-</a>
+<a href="https://github.com/shivangsagar/LectureTracker"><img src="https://img.shields.io/badge/Repository-0284C7?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
+<img src="https://img.shields.io/github/languages/top/shivangsagar/LectureTracker?style=flat-square" alt="Top language" />
+<img src="https://img.shields.io/github/stars/shivangsagar/LectureTracker?style=flat-square&logo=github" alt="Stars" />
+<img src="https://img.shields.io/github/last-commit/shivangsagar/LectureTracker?style=flat-square" alt="Last commit" />
 
-<a href="https://github.com/shivangsagar?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-24203A?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="All GitHub repositories" />
-</a>
+### [portfolio](https://github.com/shivangsagar/portfolio)
+Personal portfolio showcasing my projects, technical work, skills, and experience across engineering and technology.
 
-</div>
+<a href="https://github.com/shivangsagar/portfolio"><img src="https://img.shields.io/badge/Repository-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
+<a href="https://shivangsagar.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Site-6D28D9?style=flat-square&logo=googlechrome&logoColor=white" alt="Live site" /></a>
+<img src="https://img.shields.io/github/languages/top/shivangsagar/portfolio?style=flat-square" alt="Top language" />
+<img src="https://img.shields.io/github/stars/shivangsagar/portfolio?style=flat-square&logo=github" alt="Stars" />
+<img src="https://img.shields.io/github/last-commit/shivangsagar/portfolio?style=flat-square" alt="Last commit" />
+
+### [shivangsagar.github.io](https://github.com/shivangsagar/shivangsagar.github.io)
+Personal website.
+
+<a href="https://github.com/shivangsagar/shivangsagar.github.io"><img src="https://img.shields.io/badge/Repository-475569?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
+<a href="https://shivangsagar.github.io/"><img src="https://img.shields.io/badge/Live_Site-334155?style=flat-square&logo=googlechrome&logoColor=white" alt="Live site" /></a>
+<img src="https://img.shields.io/github/languages/top/shivangsagar/shivangsagar.github.io?style=flat-square" alt="Top language" />
+<img src="https://img.shields.io/github/last-commit/shivangsagar/shivangsagar.github.io?style=flat-square" alt="Last commit" />
+
+<p align="center">
+  <a href="https://github.com/shivangsagar?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-24203A?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="Explore all repositories" /></a>
+</p>
 
 ---
 
-## ⌘ Tools & Technologies
+## 🛠️ Tools & Technologies
+
+### Languages used in my repos
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Development
-
-`Android Studio`　`Kotlin`　`Git`　`GitHub`　`Visual Studio Code`　`PowerShell`
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
 
 ### Engineering & Design
-
-`Autodesk Revit`　`Structural Design`　`Surveying`　`Canva`
+![Autodesk Revit](https://img.shields.io/badge/Autodesk_Revit-0696D7?style=for-the-badge)
+![Structural Design](https://img.shields.io/badge/Structural_Design-455A64?style=for-the-badge)
+![Surveying](https://img.shields.io/badge/Surveying-795548?style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### Data & Productivity
-
-`Microsoft Excel`　`Data Analytics`　`AI Tools`
-
----
-
-## ⟡ GitHub Activity
-
-<div align="center">
-
-<!-- Profile views use Komarev; the other activity panels are generated and hosted in this repository. -->
-<img src="https://komarev.com/ghpvc/?username=shivangsagar&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
-
-<br/><br/>
-
-<a href="https://github.com/shivangsagar?tab=followers">
-  <img src="assets/activity-metrics.svg" width="100%" alt="GitHub followers, total stars, public repositories and forks" />
-</a>
-
-<br/><br/>
-
-<img src="assets/github-stats.svg" width="49%" alt="GitHub contribution statistics for the last 365 days" />
-<img src="assets/top-languages.svg" width="49%" alt="Most used programming languages across public repositories" />
-
-<br/><br/>
-
-<img src="assets/contribution-activity.svg" width="100%" alt="GitHub contribution activity calendar for the last year" />
-
-</div>
-
-<sub>Repository-generated activity panels refresh hourly through GitHub Actions. GitHub may delay scheduled runs. Profile views use a separate visitor-counter service.</sub>
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-FF6F00?style=for-the-badge)
+![AI Tools](https://img.shields.io/badge/AI_Tools-8A2BE2?style=for-the-badge)
 
 ---
 
-## ↗ Connect
+## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivangsagar&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-<a href="https://www.linkedin.com/in/shivangsagar/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/shivangsagar">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://shivangsagar.github.io/">
-  <img src="https://img.shields.io/badge/Website-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal website" />
-</a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shivangsagar&theme=dark&hide_border=true" alt="Total contributions and streaks" width="100%" />
+</p>
 
-</div>
+### Most used languages across my repos
+
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/shivangsagar/Presencia?style=for-the-badge&label=Presencia" alt="Presencia language" />
+  <img src="https://img.shields.io/github/languages/top/shivangsagar/LectureTracker?style=for-the-badge&label=LectureTracker" alt="LectureTracker language" />
+  <img src="https://img.shields.io/github/languages/top/shivangsagar/portfolio?style=for-the-badge&label=portfolio" alt="portfolio language" />
+  <img src="https://img.shields.io/github/languages/top/shivangsagar/shivangsagar.github.io?style=for-the-badge&label=website" alt="website language" />
+</p>
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/7C3AED/shivangsagar" alt="Contribution calendar for the last year" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting! Feel free to explore my repositories and connect with me.
+</p>
