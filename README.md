@@ -96,14 +96,19 @@ Personal website.
   <img src="https://streak-stats.demolab.com/?user=shivangsagar&theme=dark&hide_border=true" alt="Total contributions and streaks" width="100%" />
 </p>
 
-### Most used languages across my repos
+
+### Most Used Languages Across My Repositories
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/shivangsagar/Presencia?style=for-the-badge&label=Presencia" alt="Presencia language" />
-  <img src="https://img.shields.io/github/languages/top/shivangsagar/LectureTracker?style=for-the-badge&label=LectureTracker" alt="LectureTracker language" />
-  <img src="https://img.shields.io/github/languages/top/shivangsagar/portfolio?style=for-the-badge&label=portfolio" alt="portfolio language" />
-  <img src="https://img.shields.io/github/languages/top/shivangsagar/shivangsagar.github.io?style=for-the-badge&label=website" alt="website language" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img
+      src="./profile-summary-card-output/radical/1-repos-per-language.svg"
+      alt="Most used programming languages across my repositories"
+      width="70%"
+    />
+  </a>
 </p>
+
 
 ## 📈 Contribution Activity
 
