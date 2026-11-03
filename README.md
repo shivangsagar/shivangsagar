@@ -86,27 +86,81 @@ Personal website.
 
 ---
 
-## 📊 GitHub Stats
+
+## 📊 GitHub Statistics
+
+<!-- PROFILE DETAILS -->
+### 👤 Profile Overview
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivangsagar&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
+  <img
+    src="./profile-summary-card-output/radical/0-profile-details.svg"
+    alt="GitHub Profile Details"
+    width="100%"
+  />
+</p>
+
+<!-- STREAK STATS -->
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=shivangsagar&theme=radical&hide_border=true"
+    alt="GitHub Contribution Streak"
+    width="100%"
+  />
+</p>
+
+<!-- LANGUAGE STATISTICS -->
+### 💻 Programming Languages
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <strong>Languages by Repository</strong>
+      <br/><br/>
+      <img
+        src="./profile-summary-card-output/radical/1-repos-per-language.svg"
+        alt="Languages by Repository"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <strong>Top Languages by Commits</strong>
+      <br/><br/>
+      <img
+        src="./profile-summary-card-output/radical/2-most-commit-language.svg"
+        alt="Top Languages by Commits"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+<!-- GITHUB STATISTICS -->
+### 🏆 GitHub Statistics
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/radical/3-stats.svg"
+    alt="Total Stars, Total Commits, Total PRs, Total Issues and Contributed Repositories"
+    width="80%"
+  />
+</p>
+
+<!-- PRODUCTIVE TIME -->
+### ⏰ Commit Activity by Time of Day
+
+<p align="center">
+  <img
+    src="./profile-summary-card-output/radical/4-productive-time.svg"
+    alt="GitHub Commit Activity by Hour in Indian Standard Time"
+    width="80%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shivangsagar&theme=dark&hide_border=true" alt="Total contributions and streaks" width="100%" />
-</p>
-
-
-### Most Used Languages Across My Repositories
-
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img
-      src="./profile-summary-card-output/radical/1-repos-per-language.svg"
-      alt="Most used programming languages across my repositories"
-      width="70%"
-    />
-  </a>
+  <sub>Commit activity analysed in Indian Standard Time (UTC+05:30).</sub>
 </p>
 
 
