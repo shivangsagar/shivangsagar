@@ -27,6 +27,6 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
-          TIME_ZONE: Asia/Kolkata
+          UTC_OFFSET: 5.5
           AUTO_PUSH: true
           THEME: radical
